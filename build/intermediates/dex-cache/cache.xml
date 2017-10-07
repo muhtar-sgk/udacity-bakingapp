@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/TugasKuliah/udacity-bakingapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="996c99ffb87ba9836b69b1988cebd955018c4a35">
+        <dex dex="/Users/muhtar/Public/TugasKuliah/udacity-bakingapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f01dee22817257cb6b0ab09e1b09053be6cf7b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Public/TugasKuliah/udacity-bakingapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/muhtar/Public/TugasKuliah/udacity-bakingapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_479dd7b1217b6a2580c8663d75670e7f7a266cce/classes.dex" />
+    </item>
+
+</items>
